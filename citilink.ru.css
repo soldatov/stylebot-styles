@@ -1,0 +1,25 @@
+.ProductListFavourites__grid
+.ProductCardVerticalLayout {
+    margin: 2px;
+}
+
+.ProductListFavourites__grid
+.ProductCardVerticalLayout__wrapper-cover-image {
+    margin-bottom: 0px;
+}
+
+.ProductListFavourites__grid
+.ProductCardVerticalLayout__footer {
+  margin-top: 0px;
+}
+
+.ProductListFavourites__grid
+.ProductCardVertical__picture-container {
+    width: 80px;
+    height: 80px;
+}
+
+.ProductListFavourites__grid
+.ProductCardVerticalPrice__price-current {
+    font-size: 20px;
+}
