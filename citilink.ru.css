@@ -16,10 +16,27 @@
 .ProductListFavourites__grid
 .ProductCardVertical__picture-container {
     width: 80px;
-    height: 80px;
+    height: 50px;
 }
 
 .ProductListFavourites__grid
 .ProductCardVerticalPrice__price-current {
     font-size: 20px;
+}
+
+.ProductListFavourites__grid
+.ProductCardVertical_short {
+  width: 200px;
+  border: 1px solid rgb(220, 220, 220);
+}
+
+.ProductListFavourites__grid {
+  width: 800px;
+}
+
+.ProductListFavourites__grid
+.ProductCardVertical__description {
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: normal;
 }
